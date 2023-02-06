@@ -1,0 +1,23 @@
+本来是学了ai想练练手，但是想到脚本截图移动鼠标有点儿麻烦，就买了份代码
+
+看得懂的话就拿去自己改改吧
+
+
+
+自己装好环境：
+anaconda+pytorch+yolov5+cuda
+
+把这堆代码放到yolov5的文件夹里
+
+安装好ghub
+
+
+调整AI_Configuration.ini配置文件的参数
+
+
+游戏里调整鼠标速度
+
+运行命令：
+python cf.py
+
+
