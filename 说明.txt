@@ -1,23 +1,17 @@
-±¾À´ÊÇÑ§ÁËaiÏëÁ·Á·ÊÖ£¬µ«ÊÇÏëµ½½Å±¾½ØÍ¼ÒÆ¶¯Êó±êÓÐµã¶ùÂé·³£¬¾ÍÂòÁË·Ý´úÂë
-
-¿´µÃ¶®µÄ»°¾ÍÄÃÈ¥×Ô¼º¸Ä¸Ä°É
-
-
-
-×Ô¼º×°ºÃ»·¾³£º
+è‡ªå·±è£…å¥½çŽ¯å¢ƒï¼š
 anaconda+pytorch+yolov5+cuda
 
-°ÑÕâ¶Ñ´úÂë·Åµ½yolov5µÄÎÄ¼þ¼ÐÀï
+æŠŠè¿™å †ä»£ç æ”¾åˆ°yolov5çš„æ–‡ä»¶å¤¹é‡Œ
 
-°²×°ºÃghub
-
-
-µ÷ÕûAI_Configuration.iniÅäÖÃÎÄ¼þµÄ²ÎÊý
+å®‰è£…å¥½ghub
 
 
-ÓÎÏ·Àïµ÷ÕûÊó±êËÙ¶È
+è°ƒæ•´AI_Configuration.inié…ç½®æ–‡ä»¶çš„å‚æ•°
 
-ÔËÐÐÃüÁî£º
+
+æ¸¸æˆé‡Œè°ƒæ•´é¼ æ ‡é€Ÿåº¦
+
+è¿è¡Œå‘½ä»¤ï¼š
 python cf.py
 
 
